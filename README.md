@@ -31,8 +31,17 @@ The dataset contains survey responses related to financial inclusion across East
 ## Visualization Representations
 
 ### **Dashboard Overview**
+![Financial Dashboard Overview](financial-inclusion.png)
 
-(financial-inclusion.png)
+#### Dashboard Highlights:
+- **Bank Account Ownership:** Overall ownership rates across age groups, gender, and countries.
+- **Urban vs Rural Divide:** Comparison of financial inclusion levels between urban and rural areas.
+- **Education and Profession Impact:** Insights on how education and job types influence bank account ownership.
+- **Gender Gap Analysis:** Key statistics highlighting disparities in financial inclusion by gender.
+- **Country-Level Overview:** A snapshot of financial inclusion trends in Kenya, Tanzania, and Uganda.
+- **Mobile Banking Adoption:** The role of cellphone access in enhancing financial inclusion.
+
+---
 
 ### 1. **Bank Account Ownership by Age Group**
 ![Bank Account Ownership by Age](assets/graphics/bankaccountvsage.png)
