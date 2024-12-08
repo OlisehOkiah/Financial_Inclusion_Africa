@@ -31,7 +31,7 @@ The dataset contains survey responses related to financial inclusion across East
 ## Visualization Representations
 
 ### 1. **Bank Account Ownership by Age Group**
-![Bank Account Ownership by Age](https://github.com/yourusername/repo-path-to-graph.png)
+![Bank Account Ownership by Age](assets/graphics/bankaccountvsage.png)
 
 #### Representation Insights:
 - This visualization shows the proportion of individuals who own a bank account across various age groups for each country.
