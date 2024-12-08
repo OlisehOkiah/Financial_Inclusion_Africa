@@ -30,6 +30,10 @@ The dataset contains survey responses related to financial inclusion across East
 
 ## Visualization Representations
 
+### **Dashboard Overview**
+
+(financial-inclusion.png)
+
 ### 1. **Bank Account Ownership by Age Group**
 ![Bank Account Ownership by Age](assets/graphics/bankaccountvsage.png)
 
@@ -40,7 +44,7 @@ The dataset contains survey responses related to financial inclusion across East
 ---
 
 ### 2. **Bank Account Ownership by Urban vs Rural Divide**
-![Bank Account Ownership by Location](https://github.com/yourusername/repo-path-to-graph.png)
+![Bank Account Ownership by Location](assets/graphics/locationandbankaccount.png)
 
 #### Representation Insights:
 - The visualization breaks down bank account ownership patterns between **urban and rural areas** for Kenya, Uganda, and Tanzania.
@@ -49,7 +53,7 @@ The dataset contains survey responses related to financial inclusion across East
 ---
 
 ### 3. **Bank Account Ownership by Gender**
-![Bank Account Ownership by Gender](https://github.com/yourusername/repo-path-to-graph.png)
+![Bank Account Ownership by Gender](assets/graphics/genders.png)
 
 #### Representation Insights:
 - This analysis examines the proportion of men and women who own a bank account in each country (Kenya, Uganda, Tanzania).
@@ -57,7 +61,7 @@ The dataset contains survey responses related to financial inclusion across East
 
 ---
 ### 4. **Bank Account Ownership by Profession**
-![Bank Account Ownership Chart](https://github.com/OlisehOkiah/Financial_Inclusion_Africa/blob/main/path_to_your_image.png)
+![Bank Account Ownership Chart](assets/graphics/bankaccountvsProfession.png)
 
 #### Representation Insights:
 - This visualization shows how financial inclusion varies based on job type and profession.
@@ -65,36 +69,81 @@ The dataset contains survey responses related to financial inclusion across East
 
 ---
 
-### 5. **Marital Status & Employment Type**
-![Marital Status vs Employment Graph](https://github.com/OlisehOkiah/Financial_Inclusion_Africa/blob/main/path_to_your_image.png)
-
-#### Representation Insights:
-- The graph represents the proportion of individuals' job types split across their marital status groups.
-- Insights suggest variations in financial dependency and financial inclusion based on family structure and employment status.
-
----
-
-### 6. **Education Level vs Financial Inclusion**
-![Education vs Bank Accounts Graph](https://github.com/OlisehOkiah/Financial_Inclusion_Africa/blob/main/path_to_your_image.png)
+### 5. **Education Level vs Financial Inclusion**
+![Education vs Bank Accounts Graph](assets/graphics/educationvsbankaccount.png)
 
 #### Representation Insights:
 - Education levels impact financial literacy and inclusion. 
 - Those with higher levels of formal education tend to have better access to financial tools like bank accounts.
 
 ---
+
+### 6. **Country vs Financial Inclusion**
+![Country vs Bank Accounts Chart](assets/graphics/bankaccountvscountry.png)
+
+#### Representation Insights:
+- Country-level trends show differences in financial inclusion rates across Kenya, Uganda, and Tanzania.
+- Kenya leads in financial inclusion due to innovations like mobile banking, while Uganda and Tanzania are lagging, especially in rural areas.
+
+---
+
 ## Insights
-1. **Age & Financial Inclusion:** Younger populations in East Africa exhibit varied financial inclusion rates, with transitions occurring around formal employment entry age.
-2. **Urban vs Rural Divide:** Financial inclusion is higher in urban regions than rural ones due to the availability of financial services.
-3. **Gender Gap:** There is a significant gender disparity in financial inclusion rates across Kenya, Tanzania, and Uganda. Women have lower bank account ownership rates, often due to systemic financial barriers.
+
+1. **Age & Financial Inclusion:**  
+   Younger populations in East Africa exhibit varied financial inclusion rates, with financial inclusion rising significantly for individuals in their late twenties to early thirties. This suggests that financial behaviors are influenced by life stages, such as starting employment or families.  
+
+2. **Urban vs Rural Divide:**  
+   Financial inclusion is significantly higher in urban areas compared to rural areas due to better infrastructure, higher literacy levels, and proximity to financial institutions. However, the rural population remains underserved, which creates a gap in access to essential financial services.
+
+3. **Gender Gap:**  
+   There is a notable gender disparity in financial inclusion across Kenya, Tanzania, and Uganda, with women generally having lower bank account ownership rates than men. This disparity is often linked to systemic barriers such as lower access to education, income inequality, and cultural factors.
+
+4. **Profession-Based Inclusion:**  
+   Bank account ownership is highest among individuals in formal employment, followed by those who are self-employed. Individuals dependent on remittances or informal jobs have lower financial inclusion, which highlights the lack of financial products targeting these groups.
+
+5. **Impact of Education:**  
+   Higher education levels are directly correlated with increased financial inclusion. Respondents with secondary and tertiary education show a significantly higher likelihood of owning a bank account compared to those with only primary education or no formal education.
+
+6. **Country-Level Trends:**  
+   Kenya shows the highest level of financial inclusion among the three countries, likely due to the widespread adoption of mobile banking services such as M-Pesa. Tanzania and Uganda are catching up but still lag behind, especially in rural areas.
+
+7. **Cellphone Access:**  
+   Access to mobile phones is strongly linked to financial inclusion, as it facilitates mobile banking and digital transactions. However, the gap in cellphone ownership in rural areas limits the reach of such services.
+
+8. **Household Size & Financial Behavior:**  
+   Larger household sizes correlate with lower financial inclusion, likely due to resource constraints and competing financial priorities.
 
 ---
 
 ## Recommendations
-Based on the findings from this analysis, the following actions are recommended:
-1. **Target Financial Literacy for Women:** Financial education programs should specifically address barriers faced by women in financial systems.
-2. **Increase Banking Access in Rural Areas:** Focus on expanding banking services and infrastructure in rural regions to reduce urban-rural divides.
-3. **Age-Specific Financial Services:** Create age-targeted financial programs for youth transitioning into formal economies.
-4. **Collaborate with Mobile Banking Providers:** Leverage mobile technology to ensure access to financial inclusion for hard-to-reach populations.
+
+1. **Expand Financial Literacy Programs:**  
+   - **Target Women and Rural Communities:** Launch initiatives that educate women and rural populations about the importance of saving, borrowing responsibly, and using digital banking platforms.  
+   - **Integrate Financial Education in Schools:** Incorporate basic financial literacy into school curriculums to encourage responsible financial behavior from a young age.  
+
+2. **Promote Mobile Banking Solutions:**  
+   - **Leverage Mobile Networks:** Partner with mobile service providers to expand mobile banking services, especially in rural areas.  
+   - **Subsidize Smartphones:** Offer affordable smartphone programs to increase access to digital financial services.  
+
+3. **Introduce Tailored Financial Products:**  
+   - Develop financial products that cater specifically to informal workers and remittance-dependent households, such as micro-savings accounts and flexible credit schemes.  
+   - Encourage banks to provide low-fee accounts to attract low-income earners and rural populations.  
+
+4. **Address Gender Disparities:**  
+   - **Incentivize Female Account Ownership:** Banks and financial institutions can offer incentives, such as reduced fees or targeted savings programs, to encourage women to open accounts.  
+   - **Cultural Outreach Programs:** Work with local communities to address cultural barriers that prevent women from participating in financial systems.  
+
+5. **Invest in Rural Infrastructure:**  
+   - Build more banking agents or branch networks in rural areas to make banking services accessible.  
+   - Partner with local cooperatives to encourage group savings and loans among rural populations.  
+
+6. **Leverage Technology:**  
+   - **Digitize Financial Services:** Encourage the development of digital wallets and payment systems to improve access and convenience.  
+   - **Expand Internet Connectivity:** Invest in internet infrastructure to enhance access to online financial services in remote areas.  
+
+7. **Government Policy & Collaboration:**  
+   - Governments should work with banks and mobile service providers to create an enabling environment for financial inclusion.  
+   - Develop regulations that promote fair access to financial services for underserved groups, such as women and rural populations.
 
 ---
 
@@ -111,8 +160,9 @@ Data from the financial inclusion survey across East African countries is used f
 
 ---
 
-🔗 **Find Data Visualization Charts in Graphs Folder**
+🔗 **Find Data Visualization Charts in the Graphs Folder**
 
 ---
 
-*The visualizations have been created with Python, using tools like Matplotlib, Pandas, and Seaborn.*
+*The visualizations have been created with Excel.*
+
